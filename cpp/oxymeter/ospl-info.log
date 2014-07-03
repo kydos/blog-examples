@@ -1,0 +1,330 @@
+========================================================================================
+Report      : INFO
+Date        : Thu Jul 03 20:52:57 CEST 2014
+Description : u_domainNew:Database allocated on heap
+Node        : ubuntu
+Process     : oxymeter <30715>
+Thread      : spliced b6cb1b40
+Internals   : V6.4.0/c17c92b/3dd2203/user::u_domain::u_domainNew/u_domain.c/706/0/1404413577.117770157
+========================================================================================
+Report      : INFO
+Date        : Thu Jul 03 20:52:57 CEST 2014
+Description : ---------------------------------------------------------------
+              -- The service is using the following configuration settings --
+              ---------------------------------------------------------------
+              Domain (id)          : ospl_sp_ddsi (0)
+              Storage              : 10240 Kbytes
+              Storage threshold    : 1024 Kbytes
+              Storage address      : Not available
+              Locking              : default
+              Memory mode          : Heap memory
+              Builtin topics       : true
+              Priority inheritance : false
+Node        : ubuntu
+Process     : oxymeter <30715>
+Thread      : spliced b6cb1b40
+Internals   : V6.4.0/c17c92b/3dd2203/The OpenSplice domain service/u_domain.c/827/0/1404413577.136782130
+========================================================================================
+Report      : INFO
+Date        : Thu Jul 03 20:52:57 CEST 2014
+Description : ++++++++++++++++++++++++++++++++++++++++++++++++
+              ++ The service 'splicedaemon' is now operational. 
+              ++++++++++++++++++++++++++++++++++++++++++++++++
+Node        : ubuntu
+Process     : oxymeter <30715>
+Thread      : spliced b6cb1b40
+Internals   : V6.4.0/c17c92b/3dd2203/v_serviceChangeState/v_service.c/329/0/1404413577.137478225
+========================================================================================
+Report      : INFO
+Date        : Thu Jul 03 20:52:57 CEST 2014
+Description : SOAP service is reachable via port 43187
+Node        : ubuntu
+Process     : oxymeter <30715>
+Thread      : cmsoap b667db40
+Internals   : V6.4.0/c17c92b/3dd2203/CM SOAP Service/cms_service.c/410/0/1404413577.186783372
+========================================================================================
+Report      : INFO
+Date        : Thu Jul 03 20:52:57 CEST 2014
+Description : ++++++++++++++++++++++++++++++++++++++++++++++++
+              ++ The service 'cmsoap' is now operational. 
+              ++++++++++++++++++++++++++++++++++++++++++++++++
+Node        : ubuntu
+Process     : oxymeter <30715>
+Thread      : cmsoap b667db40
+Internals   : V6.4.0/c17c92b/3dd2203/v_serviceChangeState/v_service.c/329/0/1404413577.187213606
+========================================================================================
+Report      : INFO
+Date        : Thu Jul 03 20:52:57 CEST 2014
+Description : ++++++++++++++++++++++++++++++++++++++++++++++++
+              ++ The service 'ddsi2' is now operational. 
+              ++++++++++++++++++++++++++++++++++++++++++++++++
+Node        : ubuntu
+Process     : oxymeter <30715>
+Thread      : ddsi2 b618fb40
+Internals   : V6.4.0/c17c92b/3dd2203/v_serviceChangeState/v_service.c/329/0/1404413577.454781216
+========================================================================================
+Report      : INFO
+Date        : Thu Jul 03 20:52:58 CEST 2014
+Description : The durability service can by identified by ID: 2140644693
+Node        : ubuntu
+Process     : oxymeter <30715>
+Thread      : durability b6356b40
+Internals   : V6.4.0/c17c92b/3dd2203/DurabilityService/d_durability.c/476/0/1404413578.059479708
+========================================================================================
+Report      : INFO
+Date        : Thu Jul 03 20:53:02 CEST 2014
+Description : Termination request (signal 2) received from PID 30715 (self), UID 1000
+Node        : ubuntu
+Process     : oxymeter <30715>
+Thread      : signalHandler b70b2b40
+Internals   : V6.4.0/c17c92b/3dd2203/signalHandlerThread/os_signalHandler.c/503/0/1404413582.667412622
+========================================================================================
+Report      : INFO
+Date        : Thu Jul 03 20:56:29 CEST 2014
+Description : u_domainNew:Database allocated on heap
+Node        : ubuntu
+Process     : oxymeter <30944>
+Thread      : spliced b6aeab40
+Internals   : V6.4.0/c17c92b/3dd2203/user::u_domain::u_domainNew/u_domain.c/706/0/1404413789.759515747
+========================================================================================
+Report      : INFO
+Date        : Thu Jul 03 20:56:29 CEST 2014
+Description : ---------------------------------------------------------------
+              -- The service is using the following configuration settings --
+              ---------------------------------------------------------------
+              Domain (id)          : ospl_sp_ddsi (0)
+              Storage              : 10240 Kbytes
+              Storage threshold    : 1024 Kbytes
+              Storage address      : Not available
+              Locking              : default
+              Memory mode          : Heap memory
+              Builtin topics       : true
+              Priority inheritance : false
+Node        : ubuntu
+Process     : oxymeter <30944>
+Thread      : spliced b6aeab40
+Internals   : V6.4.0/c17c92b/3dd2203/The OpenSplice domain service/u_domain.c/827/0/1404413789.765303472
+========================================================================================
+Report      : INFO
+Date        : Thu Jul 03 20:56:29 CEST 2014
+Description : ++++++++++++++++++++++++++++++++++++++++++++++++
+              ++ The service 'splicedaemon' is now operational. 
+              ++++++++++++++++++++++++++++++++++++++++++++++++
+Node        : ubuntu
+Process     : oxymeter <30944>
+Thread      : spliced b6aeab40
+Internals   : V6.4.0/c17c92b/3dd2203/v_serviceChangeState/v_service.c/329/0/1404413789.765900879
+========================================================================================
+Report      : INFO
+Date        : Thu Jul 03 20:56:29 CEST 2014
+Description : SOAP service is reachable via port 43637
+Node        : ubuntu
+Process     : oxymeter <30944>
+Thread      : cmsoap b667eb40
+Internals   : V6.4.0/c17c92b/3dd2203/CM SOAP Service/cms_service.c/410/0/1404413789.767713739
+========================================================================================
+Report      : INFO
+Date        : Thu Jul 03 20:56:29 CEST 2014
+Description : ++++++++++++++++++++++++++++++++++++++++++++++++
+              ++ The service 'cmsoap' is now operational. 
+              ++++++++++++++++++++++++++++++++++++++++++++++++
+Node        : ubuntu
+Process     : oxymeter <30944>
+Thread      : cmsoap b667eb40
+Internals   : V6.4.0/c17c92b/3dd2203/v_serviceChangeState/v_service.c/329/0/1404413789.768258130
+========================================================================================
+Report      : INFO
+Date        : Thu Jul 03 20:56:29 CEST 2014
+Description : ++++++++++++++++++++++++++++++++++++++++++++++++
+              ++ The service 'ddsi2' is now operational. 
+              ++++++++++++++++++++++++++++++++++++++++++++++++
+Node        : ubuntu
+Process     : oxymeter <30944>
+Thread      : ddsi2 b6214b40
+Internals   : V6.4.0/c17c92b/3dd2203/v_serviceChangeState/v_service.c/329/0/1404413789.978010599
+========================================================================================
+Report      : INFO
+Date        : Thu Jul 03 20:56:30 CEST 2014
+Description : The durability service can by identified by ID: 1540465419
+Node        : ubuntu
+Process     : oxymeter <30944>
+Thread      : durability b6386b40
+Internals   : V6.4.0/c17c92b/3dd2203/DurabilityService/d_durability.c/476/0/1404413790.683000041
+========================================================================================
+Report      : INFO
+Date        : Thu Jul 03 20:56:34 CEST 2014
+Description : Termination request (signal 2) received from PID 30944 (self), UID 1000
+Node        : ubuntu
+Process     : oxymeter <30944>
+Thread      : signalHandler b70ebb40
+Internals   : V6.4.0/c17c92b/3dd2203/signalHandlerThread/os_signalHandler.c/503/0/1404413794.347863430
+========================================================================================
+Report      : INFO
+Date        : Thu Jul 03 21:06:16 CEST 2014
+Description : u_domainNew:Database allocated on heap
+Node        : ubuntu
+Process     : oxymeter <31330>
+Thread      : spliced b6ca5b40
+Internals   : V6.4.0/c17c92b/3dd2203/user::u_domain::u_domainNew/u_domain.c/706/0/1404414376.073256275
+========================================================================================
+Report      : INFO
+Date        : Thu Jul 03 21:06:16 CEST 2014
+Description : ---------------------------------------------------------------
+              -- The service is using the following configuration settings --
+              ---------------------------------------------------------------
+              Domain (id)          : ospl_sp_ddsi (0)
+              Storage              : 10240 Kbytes
+              Storage threshold    : 1024 Kbytes
+              Storage address      : Not available
+              Locking              : default
+              Memory mode          : Heap memory
+              Builtin topics       : true
+              Priority inheritance : false
+Node        : ubuntu
+Process     : oxymeter <31330>
+Thread      : spliced b6ca5b40
+Internals   : V6.4.0/c17c92b/3dd2203/The OpenSplice domain service/u_domain.c/827/0/1404414376.078390750
+========================================================================================
+Report      : INFO
+Date        : Thu Jul 03 21:06:16 CEST 2014
+Description : ++++++++++++++++++++++++++++++++++++++++++++++++
+              ++ The service 'splicedaemon' is now operational. 
+              ++++++++++++++++++++++++++++++++++++++++++++++++
+Node        : ubuntu
+Process     : oxymeter <31330>
+Thread      : spliced b6ca5b40
+Internals   : V6.4.0/c17c92b/3dd2203/v_serviceChangeState/v_service.c/329/0/1404414376.081967437
+========================================================================================
+Report      : INFO
+Date        : Thu Jul 03 21:06:16 CEST 2014
+Description : SOAP service is reachable via port 56116
+Node        : ubuntu
+Process     : oxymeter <31330>
+Thread      : cmsoap b667db40
+Internals   : V6.4.0/c17c92b/3dd2203/CM SOAP Service/cms_service.c/410/0/1404414376.083999641
+========================================================================================
+Report      : INFO
+Date        : Thu Jul 03 21:06:16 CEST 2014
+Description : ++++++++++++++++++++++++++++++++++++++++++++++++
+              ++ The service 'cmsoap' is now operational. 
+              ++++++++++++++++++++++++++++++++++++++++++++++++
+Node        : ubuntu
+Process     : oxymeter <31330>
+Thread      : cmsoap b667db40
+Internals   : V6.4.0/c17c92b/3dd2203/v_serviceChangeState/v_service.c/329/0/1404414376.084487356
+========================================================================================
+Report      : INFO
+Date        : Thu Jul 03 21:06:16 CEST 2014
+Description : ++++++++++++++++++++++++++++++++++++++++++++++++
+              ++ The service 'ddsi2' is now operational. 
+              ++++++++++++++++++++++++++++++++++++++++++++++++
+Node        : ubuntu
+Process     : oxymeter <31330>
+Thread      : ddsi2 b61d3b40
+Internals   : V6.4.0/c17c92b/3dd2203/v_serviceChangeState/v_service.c/329/0/1404414376.295258404
+========================================================================================
+Report      : INFO
+Date        : Thu Jul 03 21:06:16 CEST 2014
+Description : The durability service can by identified by ID: 2030808474
+Node        : ubuntu
+Process     : oxymeter <31330>
+Thread      : durability b6356b40
+Internals   : V6.4.0/c17c92b/3dd2203/DurabilityService/d_durability.c/476/0/1404414376.802065573
+========================================================================================
+Report      : INFO
+Date        : Thu Jul 03 21:06:20 CEST 2014
+Description : u_domainNew:Database allocated on heap
+Node        : ubuntu
+Process     : logger <31448>
+Thread      : spliced b6affb40
+Internals   : V6.4.0/c17c92b/3dd2203/user::u_domain::u_domainNew/u_domain.c/706/0/1404414380.678682238
+========================================================================================
+Report      : INFO
+Date        : Thu Jul 03 21:06:20 CEST 2014
+Description : ---------------------------------------------------------------
+              -- The service is using the following configuration settings --
+              ---------------------------------------------------------------
+              Domain (id)          : ospl_sp_ddsi (0)
+              Storage              : 10240 Kbytes
+              Storage threshold    : 1024 Kbytes
+              Storage address      : Not available
+              Locking              : default
+              Memory mode          : Heap memory
+              Builtin topics       : true
+              Priority inheritance : false
+Node        : ubuntu
+Process     : logger <31448>
+Thread      : spliced b6affb40
+Internals   : V6.4.0/c17c92b/3dd2203/The OpenSplice domain service/u_domain.c/827/0/1404414380.683577618
+========================================================================================
+Report      : INFO
+Date        : Thu Jul 03 21:06:20 CEST 2014
+Description : ++++++++++++++++++++++++++++++++++++++++++++++++
+              ++ The service 'splicedaemon' is now operational. 
+              ++++++++++++++++++++++++++++++++++++++++++++++++
+Node        : ubuntu
+Process     : logger <31448>
+Thread      : spliced b6affb40
+Internals   : V6.4.0/c17c92b/3dd2203/v_serviceChangeState/v_service.c/329/0/1404414380.684071927
+========================================================================================
+Report      : INFO
+Date        : Thu Jul 03 21:06:20 CEST 2014
+Description : SOAP service is reachable via port 51731
+Node        : ubuntu
+Process     : logger <31448>
+Thread      : cmsoap b6581b40
+Internals   : V6.4.0/c17c92b/3dd2203/CM SOAP Service/cms_service.c/410/0/1404414380.688582013
+========================================================================================
+Report      : INFO
+Date        : Thu Jul 03 21:06:20 CEST 2014
+Description : ++++++++++++++++++++++++++++++++++++++++++++++++
+              ++ The service 'cmsoap' is now operational. 
+              ++++++++++++++++++++++++++++++++++++++++++++++++
+Node        : ubuntu
+Process     : logger <31448>
+Thread      : cmsoap b6581b40
+Internals   : V6.4.0/c17c92b/3dd2203/v_serviceChangeState/v_service.c/329/0/1404414380.688844250
+========================================================================================
+Report      : INFO
+Date        : Thu Jul 03 21:06:20 CEST 2014
+Description : ++++++++++++++++++++++++++++++++++++++++++++++++
+              ++ The service 'ddsi2' is now operational. 
+              ++++++++++++++++++++++++++++++++++++++++++++++++
+Node        : ubuntu
+Process     : logger <31448>
+Thread      : ddsi2 b615bb40
+Internals   : V6.4.0/c17c92b/3dd2203/v_serviceChangeState/v_service.c/329/0/1404414380.700033348
+========================================================================================
+Report      : INFO
+Date        : Thu Jul 03 21:06:21 CEST 2014
+Description : The durability service can by identified by ID: 152610200
+Node        : ubuntu
+Process     : logger <31448>
+Thread      : durability b62cdb40
+Internals   : V6.4.0/c17c92b/3dd2203/DurabilityService/d_durability.c/476/0/1404414381.608591623
+========================================================================================
+Report      : INFO
+Date        : Thu Jul 03 21:06:28 CEST 2014
+Description : ++++++++++++++++++++++++++++++++++++++++++++++++
+              ++ The service 'durability' is now operational. 
+              ++++++++++++++++++++++++++++++++++++++++++++++++
+Node        : ubuntu
+Process     : oxymeter <31330>
+Thread      : durability b6356b40
+Internals   : V6.4.0/c17c92b/3dd2203/v_serviceChangeState/v_service.c/329/0/1404414388.967743113
+========================================================================================
+Report      : INFO
+Date        : Thu Jul 03 21:06:29 CEST 2014
+Description : Termination request (signal 2) received from PID 31448 (self), UID 1000
+Node        : ubuntu
+Process     : logger <31448>
+Thread      : signalHandler b7001b40
+Internals   : V6.4.0/c17c92b/3dd2203/signalHandlerThread/os_signalHandler.c/503/0/1404414389.876371920
+========================================================================================
+Report      : INFO
+Date        : Thu Jul 03 21:06:31 CEST 2014
+Description : Termination request (signal 2) received from PID 31330 (self), UID 1000
+Node        : ubuntu
+Process     : oxymeter <31330>
+Thread      : signalHandler b70a6b40
+Internals   : V6.4.0/c17c92b/3dd2203/signalHandlerThread/os_signalHandler.c/503/0/1404414391.122602955

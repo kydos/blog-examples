@@ -1,0 +1,11 @@
+module ac {
+  module blog {
+    struct Oxymetry {
+      string deviceId;
+      long spO2;
+      long bpm;
+      long pleth;
+    };
+    #pragma keylist Oxymetry deviceId
+  };
+};
